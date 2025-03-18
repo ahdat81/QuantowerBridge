@@ -1,0 +1,7 @@
+
+*.vsidx
+/.vs/ProjectEvaluation
+/.vs
+/QtBridgeStrategy/obj
+QtBridgeStrategy/QtBridgeStrategy.csproj
+/QtBridgeStrategy/.vs
